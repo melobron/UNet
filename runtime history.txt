@@ -1,0 +1,2 @@
+model: UNet_clinic, epoch: 1, batch: 20, runtime: 268.0746874809265 
+model: UNet_clinic, epoch: 1, batch: 100, runtime: 1345.7781071662903 
